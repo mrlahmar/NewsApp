@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a91f6b77943082bdad226148dcacb21c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b650bd102f8571b14add90bd90f2f59d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ea04f8dd51f267e098a4979617de0b50\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bf153bbf0a2c46b17fc74540dcafa1d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\dd4a262677911b53cbcb2717b84f217c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7144e79e2f266bf2c298e25299a444c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\67b56ac60e65bfc968d3679826d40cd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0f6ad4e9e292b38a1eb982defcde6e80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\cdf8d75755494fd0d17e4d7e92c5862e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\314f2befaa38101777784a31b4d51202\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b511d1811a9e50fbd518290f081bbc8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c39ce9c5b668f9fdad9dec719dd92fa2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87c0f9958a04f44d802cf0d7f61f7cb3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6112319ebe17dd859a42bbc61377f0f3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b650bd102f8571b14add90bd90f2f59d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b650bd102f8571b14add90bd90f2f59d\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ea04f8dd51f267e098a4979617de0b50\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ea04f8dd51f267e098a4979617de0b50\AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.android.newsapp.MainActivity
+ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a91f6b77943082bdad226148dcacb21c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a91f6b77943082bdad226148dcacb21c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b650bd102f8571b14add90bd90f2f59d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b650bd102f8571b14add90bd90f2f59d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ea04f8dd51f267e098a4979617de0b50\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ea04f8dd51f267e098a4979617de0b50\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bf153bbf0a2c46b17fc74540dcafa1d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bf153bbf0a2c46b17fc74540dcafa1d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\dd4a262677911b53cbcb2717b84f217c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\dd4a262677911b53cbcb2717b84f217c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7144e79e2f266bf2c298e25299a444c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7144e79e2f266bf2c298e25299a444c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\67b56ac60e65bfc968d3679826d40cd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\67b56ac60e65bfc968d3679826d40cd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0f6ad4e9e292b38a1eb982defcde6e80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0f6ad4e9e292b38a1eb982defcde6e80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\cdf8d75755494fd0d17e4d7e92c5862e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\cdf8d75755494fd0d17e4d7e92c5862e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\314f2befaa38101777784a31b4d51202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\314f2befaa38101777784a31b4d51202\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b511d1811a9e50fbd518290f081bbc8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b511d1811a9e50fbd518290f081bbc8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c39ce9c5b668f9fdad9dec719dd92fa2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c39ce9c5b668f9fdad9dec719dd92fa2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87c0f9958a04f44d802cf0d7f61f7cb3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87c0f9958a04f44d802cf0d7f61f7cb3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6112319ebe17dd859a42bbc61377f0f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6112319ebe17dd859a42bbc61377f0f3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\m_s info\Dropbox\Android\Personal Projects\NewsApp\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ea04f8dd51f267e098a4979617de0b50\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ea04f8dd51f267e098a4979617de0b50\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ea04f8dd51f267e098a4979617de0b50\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\m_s info\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ea04f8dd51f267e098a4979617de0b50\AndroidManifest.xml:9:13-64

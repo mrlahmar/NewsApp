@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin2dp">2dp</dimen>
+    <dimen name="list_item_height">120dp</dimen>
+    <dimen name="padMarg12dp">12dp</dimen>
+    <dimen name="pad10dp">10dp</dimen>
+    <dimen name="pad5dp">5dp</dimen>
+    <dimen name="marg6dp">6dp</dimen>
+    <dimen name="marg9dp">9dp</dimen>
+    <dimen name="item_height">25dp</dimen>
+    <dimen name="item_height2">22dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="text_size2">16sp</dimen>
+    <dimen name="text_size3">22sp</dimen>
+</resources>
